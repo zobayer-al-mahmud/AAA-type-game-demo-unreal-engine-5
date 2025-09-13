@@ -2,3 +2,7 @@ Content files and gameplay link : https://drive.google.com/drive/folders/1wIoLm0
 
 
 extract content.rar and paste the file in the content folder
+
+
+
+![Uploading image.png…]()
